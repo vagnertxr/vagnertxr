@@ -10,7 +10,7 @@ I'm a **Geographer** with a degree from the University of Brasília (UnB) and a 
 - **Python**
 
 ## 💼 Experience Highlights
-- Developed and managed spatial databases for a institutional WebGIS platform.
+- Implemented and managed spatial databases for a institutional WebGIS platform.
 - Created dashboards for spatial data visualization and performed data quality control.
 - Provided technical support for implementing geospatial systems and platforms.
 Worked at **UnB** as a research support fellow on 2024.
