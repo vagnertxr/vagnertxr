@@ -1,7 +1,8 @@
 ## About Me  
 Hello Earth! 🌎
-I'm a **Geographer** with a degree from the University of Brasília (UnB) and a Master’s Degree in **Applied Geosciences and Geodynamics**, where I researched urban mobility structures and networks through geospatial analysis.
-I have professional experience in Cartography, GIS, spatial databases, and WebGIS systems, always working to transform geographic data into meaningful insights for decision-making.
+**Geography BSc**
+**Applied Geosciences and Geodynamics MSc**
+**Cartography | GIS | Spatial data analysis**
 
 ## 🖥️ Tools I use the most:
 - **ArcGIS Pro**
