@@ -1,7 +1,7 @@
 Hello Earth! 🌎
 
 ## 👤 About me
-**Geographer** (BSc) with an MSc in **Applied Geosciences and Geodynamics**
+**Geography** (BSc) | **Applied Geosciences and Geodynamics** (MSc)
 
 **Cartography | GIS | Spatial Data Analysis**
 
