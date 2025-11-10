@@ -4,6 +4,7 @@ Hello Earth! 🌎
 **Geographer** (BSc) with an MSc in **Applied Geosciences and Geodynamics**
 
 **Cartography | GIS | Spatial Data Analysis**
+
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-000000?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis)
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
