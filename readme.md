@@ -9,7 +9,6 @@ Hello Earth! 🌎
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ## 💼 Experience
 * Implemented and managed spatial databases for a institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
