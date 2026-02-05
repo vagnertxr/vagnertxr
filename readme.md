@@ -16,3 +16,5 @@ Implemented and managed spatial databases for a institutional WebGIS platform at
 Currently, I provide technical services in GIS and cartography for [**IBAMA**](https://pamgia.ibama.gov.br/home/) via an external contractor.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerferrazjr/)
+
+junior.vagner@live.com
