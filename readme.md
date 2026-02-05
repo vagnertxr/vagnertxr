@@ -4,11 +4,10 @@
 
 Cartography | GIS | Spatial Data Analysis
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=flat-square&logo=arcgis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=flat-square&logo=arcgis&logoColor=white)](https://www.arcgis.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgis.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
 ---
 
 ### Experience
