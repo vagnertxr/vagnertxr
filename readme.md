@@ -8,6 +8,7 @@ Cartography | GIS | Spatial Data Analysis
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=flat-square&logo=arcgis&logoColor=white)](https://www.arcgis.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgis.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org)
 ---
 
 ### Experience
