@@ -4,17 +4,23 @@
 
 `Cartography` `GIS` `Spatial Data Analysis`
 
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=flat-square&logo=arcgis&logoColor=white)](https://www.arcgis.com)
-[![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgis.net/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org)
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
+[![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-0473e1?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.arcgis.com)
+[![GDAL](https://img.shields.io/badge/GDAL-222222?style=for-the-badge&logo=gdal&logoColor=fff)](https://gdal.org/en/stable/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://https://sqlite.org/)
 ---
 
 ### Experience
 
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
 
-Currently, I provide technical services in GIS and cartography for [**IBAMA**](https://ibama.gov.br/) via an external contractor, developing geospatial data solutions to support field operations, building products within the [**PAMGIA**](https://pamgia.ibama.gov.br/home/) platform, and implementing new features for the **Crotalus** system (automated prioritization of deforestation alerts).
+Currently, I provide technical services in GIS and cartography for [**IBAMA**](https://ibama.gov.br/) via an external contractor, developing geospatial data solutions to support field operations, building products within the [**PAMGIA**](https://pamgia.ibama.gov.br/home/) platform, and implementing new features for the **Crotalus** system (automated prioritization of deforestation alerts), such as an automated route map generator built in R and Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerferrazjr/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vagnerferrazjr/)
+
+
+##### Btw, powered by:
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](#)
