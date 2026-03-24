@@ -3,6 +3,7 @@
 **Geography (BSc) | Applied Geosciences and Geodynamics (MSc)**
 
 `Cartography` `GIS` `Spatial Data Analysis`
+##### [Projects portfolio](https://vagnertxr.github.io)
 
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
 [![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
@@ -10,7 +11,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 ---
-
 ### Experience
 
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
