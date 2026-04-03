@@ -15,7 +15,7 @@
 
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
 
-Currently, I provide technical services in GIS and cartography for [**IBAMA**](https://www.gov.br/ibama/) via an external contractor, developing geospatial data solutions to support field operations, building products within the [**PAMGIA**](https://pamgia.ibama.gov.br/home/) platform, and implementing new features for the **Crotalus** system (automated prioritization of deforestation alerts), such as an automated route map generator built in R and Python.
+Currently, I provide technical services in GIS and cartography for [**IBAMA**](https://www.gov.br/ibama/) via an external contractor, developing geospatial data solutions to support field operations, building products within the [**PAMGIA**](https://pamgia.ibama.gov.br/home/) platform, and implementing new features for the **Crotalus** system (automated prioritization of deforestation alerts), such as **Rizoma**, an automated route map generator built in R and Python.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vagnerferrazjr/)
 ---
