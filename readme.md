@@ -25,7 +25,7 @@ An automated WebGIS project that scrapes player data using Python, generates sta
 
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
 
-Currently, I provide technical services in GIS, Spatial data analysis and cartography for [**IBAMA**](https://www.gov.br/ibama/).
+Currently, I provide technical services in GIS, Spatial data analysis and cartography for [**IBAMA**](https://www.gov.br/ibama/) (since 2024).
 
 More on [my portfolio](https://vagnertxr.github.io).
 
