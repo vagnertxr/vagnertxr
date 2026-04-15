@@ -15,7 +15,7 @@
 
 [**Quick VRT Imagery Loader**](https://plugins.qgis.org/plugins/sentinel_stac_loader/)
 
-Plugin for searching and loading satellite imagery via the Microsoft Planetary Computer STAC API. It lists pre-configured compositions and loads images as VRT. Supports Sentinel-2 and Landsat collections with multiple band compositions (True Color, False Color NIR/SWIR, Agriculture, Geology, Urban, Bathymetric, and more). Compatible with QGIS 3.x (Qt5) and QGIS 4.x (Qt6).
+Plugin for searching and loading satellite imagery via the Microsoft Planetary Computer STAC API. It lists pre-configured compositions and loads images as VRT. Supports Sentinel-2 and Landsat collections with multiple band compositions.
 
 [**Slippi Ranked South America Map**](https://vagnertxr.github.io/game_map/)
 
