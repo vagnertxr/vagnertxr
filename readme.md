@@ -21,7 +21,7 @@ Plugin for searching and loading satellite imagery via the Microsoft Planetary C
 
 An automated WebGIS project that scrapes player data using Python, generates statistics per country on PostGIS, and plots the results on an interactive webmap. Built for the South American Super Smash Bros. Melee community.
 
-### Experience
+### Work experience
 
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
 
