@@ -14,7 +14,7 @@
 ### My projects
 [**GeomonitoR da Amazônia**](https://vagnertxr.github.io/amazonia_geomonitor/)
 
-A Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Legal Amazon.
+A Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Amazon Rainforest.
 
 Consumes official INPE (DETER) satellite data via WFS, processes it spatially in R (sf, KDE), and renders it on a 100% Serverless SPA (Leaflet) with automated monthly updates.
    
