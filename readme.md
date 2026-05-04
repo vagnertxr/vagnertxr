@@ -12,7 +12,12 @@
 ---
 
 ### My projects
+[**GeomonitoR da Amazônia**](https://vagnertxr.github.io/amazonia_geomonitor/)
 
+A Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Legal Amazon.
+
+Consumes official INPE (DETER) satellite data via WFS, processes it spatially in R (sf, KDE), and renders it on a 100% Serverless SPA (Leaflet) with automated monthly updates.
+   
 [**Quick VRT Imagery Loader**](https://plugins.qgis.org/plugins/sentinel_stac_loader/)
 
 Plugin for searching and loading satellite imagery via the Microsoft Planetary Computer STAC API. It lists pre-configured compositions and loads images as VRT. Supports Sentinel-2 and Landsat collections with multiple band compositions.
