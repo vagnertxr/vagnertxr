@@ -1,8 +1,4 @@
-### Hello Earth! 🌎
-
-**Geography (BSc) | Applied Geosciences and Geodynamics (MSc)**
-
-`Cartography` `GIS` `Spatial Data Analysis`
+Geography (BSc) | Applied Geosciences and Geodynamics (MSc)
 
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
 [![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
@@ -10,7 +6,7 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 ---
 
-### My projects
+#### My projects:
 [**GeomonitoR da Amazônia**](https://vagnertxr.github.io/amazonia_geomonitor/)
 
 WebGIS Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Amazon Rainforest.
@@ -25,8 +21,7 @@ Plugin for searching and loading satellite imagery via the Microsoft Planetary C
 
 An automated WebGIS project that scrapes player data using Python, generates statistics per country on PostGIS, and plots the results on an interactive webmap. Built for the South American Super Smash Bros. Melee community.
 
-### Work experience
-
+#### Work experience:
 Implemented and managed spatial databases for an institutional WebGIS platform at **UnB**, where I worked as a research support fellow in 2024.
 
 Currently, I provide technical services in GIS, Spatial data analysis and cartography for [**IBAMA**](https://www.gov.br/ibama/) (since 2024).
@@ -34,7 +29,3 @@ Currently, I provide technical services in GIS, Spatial data analysis and cartog
 More on [my portfolio](https://vagnertxr.github.io).
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vagnerferrazjr/)
----
-
-##### Btw, powered by:
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](http://archlinux.org)
