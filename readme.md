@@ -7,11 +7,6 @@ Geography (BSc) | Applied Geosciences and Geodynamics (MSc)
 ---
 
 #### My projects:
-[**GeomonitoR da Amazônia**](https://vagnertxr.github.io/amazonia_geomonitor/)
-
-WebGIS Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Amazon Rainforest.
-
-Consumes official INPE (DETER) satellite data via WFS, processes it spatially in R (sf, KDE), and renders it on a 100% Serverless SPA (Leaflet) with automated monthly updates.
    
 [**Quick VRT Imagery Loader**](https://plugins.qgis.org/plugins/sentinel_stac_loader/)
 
@@ -20,6 +15,12 @@ Plugin for searching and loading satellite imagery via the Microsoft Planetary C
 [**Slippi Ranked South America Map**](https://vagnertxr.github.io/game_map/)
 
 An automated WebGIS project that scrapes player data using Python, generates statistics per country on PostGIS, and plots the results on an interactive webmap. Built for the South American Super Smash Bros. Melee community.
+
+[**GeomonitoR da Amazônia**](https://vagnertxr.github.io/amazonia_geomonitor/)
+
+WebGIS Dashboard focused on monitoring vegetation suppression and forest degradation alerts in the Amazon Rainforest.
+
+Consumes official INPE (DETER) satellite data via WFS, processes it spatially in R (sf, KDE), and renders it on a 100% Serverless SPA (Leaflet) with automated monthly updates.
 
 More on [my portfolio](https://vagnertxr.github.io).
 
