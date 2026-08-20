@@ -1,6 +1,6 @@
 Geography (BSc) & Applied Geosciences and Geodynamics (MSc)
 
-Experience on geospatial data, remote sensing and product support for reality capturing software
+Experience on geospatial data, remote sensing and product support for drone operation and reality capturing software
 
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
 [![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
