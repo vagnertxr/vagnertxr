@@ -1,4 +1,6 @@
-Geography (BSc) | Applied Geosciences and Geodynamics (MSc)
+Geography (BSc) & Applied Geosciences and Geodynamics (MSc)
+
+Experience on geospatial data, remote sensing and product support for reality capturing software
 
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
 [![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
@@ -10,7 +12,7 @@ Geography (BSc) | Applied Geosciences and Geodynamics (MSc)
    
 [**Quick VRT Imagery Loader**](https://plugins.qgis.org/plugins/sentinel_stac_loader/)
 
-Plugin for searching and loading satellite imagery via the Microsoft Planetary Computer STAC API. It lists pre-configured compositions and loads images as VRT. Supports Sentinel-2 and Landsat collections with multiple band compositions.
+Plugin for searching and loading satellite imagery via multiple STAC APIs: Microsoft Planetary Computer, Element84 Earth Search and INPE's Brazil Data Cube. It lists pre-configured compositions and loads images as VRT. Supports Sentinel-2 and Landsat collections with multiple band compositions.
 
 [**Slippi Ranked South America Map**](https://vagnertxr.github.io/game_map/)
 
